@@ -1,4 +1,4 @@
-# Restaurant Food Ordering Website
+# Food Ordering Website with Recommendation
 
 A web-based food ordering system developed as a bachelor's degree project. The application allows users to browse restaurants and dishes, add food items to a shopping cart, place orders, and view their previous orders.
 
